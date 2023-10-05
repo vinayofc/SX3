@@ -1,2 +1,2 @@
 # SX3
-powerful File Encrypter and Decrypter
+Powerful & Simple File Encrypter and Decrypter
